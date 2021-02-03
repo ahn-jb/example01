@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>HONG</title>
+<title>Test</title>
 <script src="http://code.jquery.com/jquery-3.3.1.min.js"></script>
 </head>
 <body style="background-image:url('${path}/attach/image/background.jpg')" >
